@@ -205,8 +205,6 @@ jupyter lab
 - You can look at the execution results within the file and interpret accordingly.
 
 # Authors
-| Author                           | Contact Details                  |
-|----------------------------------|----------------------------------|
-| Prof. Dr. Soumi Ray              | soumiray@sandiego.edu            |
-| Ravi Teja Kothuru                | rkothuru@sandiego.edu            |
-| Abhay Srivastav                  | asrivastav@sandiego.edu          |
+| Ravi Teja Kothuru                |
+| Prof. Dr. Soumi Ray              |
+| Abhay Srivastav                  |
