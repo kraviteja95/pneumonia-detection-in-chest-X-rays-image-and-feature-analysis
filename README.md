@@ -108,20 +108,20 @@ We selected this dataset based on several factors. For more detailed information
 # Usage Instructions in Local System
 - Clone using HTTPS
 ```commandline
-git clone https://github.com/kraviteja95usd/pneumonia-detection-in-chest-X-rays.git
+git clone https://github.com/kraviteja95/pneumonia-detection-in-chest-X-rays.git
 ```
 OR - 
 
 - Clone using SSH
 ```commandline
-git clone git@github.com:kraviteja95usd/pneumonia-detection-in-chest-X-rays.git
+git clone git@github.com:kraviteja95/pneumonia-detection-in-chest-X-rays.git
 ```
 
 OR -
 
 - Clone using GitHub CLI
 ```commandline
-git clone gh repo clone kraviteja95usd/pneumonia-detection-in-chest-X-rays
+git clone gh repo clone kraviteja95/pneumonia-detection-in-chest-X-rays
 ```
  
 - Switch inside the Project Directory
@@ -205,6 +205,6 @@ jupyter lab
 - You can look at the execution results within the file and interpret accordingly.
 
 # Authors
-| Ravi Teja Kothuru                |
-| Prof. Dr. Soumi Ray              |
-| Abhay Srivastav                  |
+| Author            |
+|-------------------|
+| Ravi Teja Kothuru |
